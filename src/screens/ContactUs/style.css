@@ -1,0 +1,299 @@
+.contact-us {
+  background-color: #0c0004;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contact-us .div {
+  background-color: #0c0004;
+  height: 973px;
+  position: relative;
+  width: 1920px;
+}
+
+.contact-us .overlap {
+  height: 1046px;
+  left: 304px;
+  position: absolute;
+  top: -289px;
+  width: 1460px;
+}
+
+.contact-us .overlap-group {
+  height: 930px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1460px;
+}
+
+.contact-us .overlap-group-2 {
+  height: 526px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1225px;
+}
+
+.contact-us .ellipse {
+  background-color: #faab06;
+  border-radius: 269.5px/254.5px;
+  filter: blur(220px);
+  height: 509px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 539px;
+}
+
+.contact-us .text-wrapper {
+  color: #ffffff;
+  font-family: var(--h1-font-family);
+  font-size: var(--h1-font-size);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  left: 94px;
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  position: absolute;
+  text-align: center;
+  top: 440px;
+}
+
+.contact-us .menu-bar {
+  height: 32px;
+  left: 94px;
+  position: absolute;
+  top: 306px;
+  width: 1131px;
+}
+
+.contact-us .logo {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.contact-us .element {
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.contact-us .text-wrapper-2 {
+  color: #fffdfd;
+  font-family: var(--menu-bar-font-family);
+  font-size: var(--menu-bar-font-size);
+  font-style: var(--menu-bar-font-style);
+  font-weight: var(--menu-bar-font-weight);
+  left: 34px;
+  letter-spacing: var(--menu-bar-letter-spacing);
+  line-height: var(--menu-bar-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.contact-us .text-wrapper-3 {
+  color: #fffdfd;
+  font-family: var(--menu-bar-font-family);
+  font-size: var(--menu-bar-font-size);
+  font-style: var(--menu-bar-font-style);
+  font-weight: var(--menu-bar-font-weight);
+  left: 729px;
+  letter-spacing: var(--menu-bar-letter-spacing);
+  line-height: var(--menu-bar-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.contact-us .text-wrapper-4 {
+  color: #fffdfd;
+  font-family: var(--menu-bar-font-family);
+  font-size: var(--menu-bar-font-size);
+  font-style: var(--menu-bar-font-style);
+  font-weight: var(--menu-bar-font-weight);
+  left: 880px;
+  letter-spacing: var(--menu-bar-letter-spacing);
+  line-height: var(--menu-bar-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.contact-us .text-wrapper-5 {
+  color: #fffdfd;
+  font-family: var(--menu-bar-font-family);
+  font-size: var(--menu-bar-font-size);
+  font-style: var(--menu-bar-font-style);
+  font-weight: var(--menu-bar-font-weight);
+  left: 1000px;
+  letter-spacing: var(--menu-bar-letter-spacing);
+  line-height: var(--menu-bar-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.contact-us .ellipse-2 {
+  background-color: #dc1919;
+  border-radius: 269.5px/254.5px;
+  filter: blur(220px);
+  height: 509px;
+  left: 921px;
+  position: absolute;
+  top: 421px;
+  width: 539px;
+}
+
+.contact-us .if-you-were {
+  color: #ffffff;
+  font-family: var(--paragraph-text-font-family);
+  font-size: var(--paragraph-text-font-size);
+  font-style: var(--paragraph-text-font-style);
+  font-weight: var(--paragraph-text-font-weight);
+  left: 94px;
+  letter-spacing: var(--paragraph-text-letter-spacing);
+  line-height: var(--paragraph-text-line-height);
+  position: absolute;
+  top: 540px;
+}
+
+.contact-us .span {
+  color: #ffffff;
+  font-family: var(--paragraph-text-font-family);
+  font-size: var(--paragraph-text-font-size);
+  font-style: var(--paragraph-text-font-style);
+  font-weight: var(--paragraph-text-font-weight);
+  letter-spacing: var(--paragraph-text-letter-spacing);
+  line-height: var(--paragraph-text-line-height);
+}
+
+.contact-us .text-wrapper-6 {
+  font-family: var(--paragraph-text-font-family);
+  font-size: var(--paragraph-text-font-size);
+  font-style: var(--paragraph-text-font-style);
+  font-weight: var(--paragraph-text-font-weight);
+  letter-spacing: var(--paragraph-text-letter-spacing);
+  line-height: var(--paragraph-text-line-height);
+}
+
+.contact-us .options {
+  height: 271px;
+  left: 102px;
+  position: absolute;
+  top: 775px;
+  width: 428px;
+}
+
+.contact-us .icon-whatsapp {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 205px;
+  width: 55px;
+}
+
+.contact-us .icon-facebook {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.contact-us .icon-gmail {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 109px;
+  width: 55px;
+}
+
+.contact-us .text-wrapper-7 {
+  color: #ffffff;
+  font-family: var(--paragraph-text-font-family);
+  font-size: var(--paragraph-text-font-size);
+  font-style: var(--paragraph-text-font-style);
+  font-weight: var(--paragraph-text-font-weight);
+  left: 80px;
+  letter-spacing: var(--paragraph-text-letter-spacing);
+  line-height: var(--paragraph-text-line-height);
+  position: absolute;
+  top: 17px;
+}
+
+.contact-us .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 120px;
+}
+
+.contact-us .yahel {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 195px;
+}
+
+.contact-us .overlap-2 {
+  height: 83px;
+  left: 0;
+  position: absolute;
+  top: 890px;
+  width: 1920px;
+}
+
+.contact-us .group {
+  background-color: #c41f1f;
+  height: 83px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.contact-us .img {
+  height: 72px;
+  left: 457px;
+  position: absolute;
+  top: 6px;
+  width: 72px;
+}
+
+.contact-us .icon-facebook-2 {
+  height: 71px;
+  left: 177px;
+  position: absolute;
+  top: 6px;
+  width: 72px;
+}
+
+.contact-us .icon-gmail-2 {
+  height: 54px;
+  left: 317px;
+  position: absolute;
+  top: 15px;
+  width: 72px;
+}
