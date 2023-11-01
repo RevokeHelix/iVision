@@ -18,9 +18,9 @@ export const HomePage = (): JSX.Element => {
                 />
                 <div className="text-wrapper">iVision</div>
               </div>
-              <a className="text-wrapper-2" href = "Products">Products</a>
+              <a className="text-wrapper-2" href = "/Products">Products</a>
               <a className="text-wrapper-3" href = "/about">About</a>
-              <a className="text-wrapper-4" href = "/contact">Contact Us</a>
+              <a className="text-wrapper-4" href = "/contactus">Contact Us</a>
             </div>
             <div className="who-are-we">
               <p className="p">
