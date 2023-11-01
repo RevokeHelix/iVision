@@ -4,6 +4,7 @@
   flex-direction: row;
   justify-content: center;
   width: 100%;
+  overflow-x: hidden;
 }
 
 .contact-us .div {
@@ -67,7 +68,7 @@
   left: 94px;
   position: absolute;
   top: 306px;
-  width: 1131px;
+  width: 100%;
 }
 
 .contact-us .logo {

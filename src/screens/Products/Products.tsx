@@ -15,11 +15,11 @@ export const Products = (): JSX.Element => {
                   alt="Element"
                   src="/img/377552544-122100322256037422-5305598451218448045-n-2.png"
                 />
-                <div className="text-wrapper">iVision</div>
+                <a className="text-wrapper" href="/home">iVision</a>
               </div>
-              <div className="text-wrapper-2">Products</div>
-              <div className="text-wrapper-3">About</div>
-              <div className="text-wrapper-4">Contact Us</div>
+              <a className="text-wrapper-2" href="/Products">Products</a>
+              <a className="text-wrapper-3" href="/about">About</a>
+              <a className="text-wrapper-4" href="/contactus">Contact Us</a>
             </div>
             <div className="who-are-we">
               <div className="text-wrapper-5">Virtual Staging</div>

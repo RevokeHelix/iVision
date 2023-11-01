@@ -17,11 +17,11 @@ export const ContactUs = (): JSX.Element => {
                     alt="Element"
                     src="/img/377552544-122100322256037422-5305598451218448045-n-2.png"
                   />
-                  <div className="text-wrapper-2">iVision</div>
+                  <a className="text-wrapper-2" href="/home">iVision</a>
                 </div>
-                <div className="text-wrapper-3">Products</div>
-                <div className="text-wrapper-4">About</div>
-                <div className="text-wrapper-5">Contact Us</div>
+                <a className="text-wrapper-3" href="/Products">Products</a>
+                <a className="text-wrapper-4" href="/about">About</a>
+                <a className="text-wrapper-5" href="/contactus">Contact Us</a>
               </div>
             </div>
             <div className="ellipse-2" />

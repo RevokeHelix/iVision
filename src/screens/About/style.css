@@ -4,19 +4,22 @@
   flex-direction: row;
   justify-content: center;
   width: 100%;
+  overflow: hidden;
+  overflow: hidden;
 }
 
 .about .overlap-group-wrapper {
   background-color: #0c0004;
-  height: 822px;
-  overflow: hidden;
+  height: 100vh;
   width: 1920px;
+  overflow: hidden;
 }
 
 .about .overlap-group {
   height: 1140px;
-  position: relative;
-  top: -289px;
+  position: fixed;
+  bottom: 0px;
+
 }
 
 .about .ellipse {
@@ -52,6 +55,7 @@
   line-height: var(--h1-line-height);
   position: absolute;
   top: 384px;
+  width: 1000px
 }
 
 .about .at-ivision-we-re {
@@ -64,8 +68,9 @@
   letter-spacing: var(--paragraph-text-letter-spacing);
   line-height: var(--paragraph-text-line-height);
   position: absolute;
-  top: 470px;
+  top: 490px;
   width: 866px;
+
 }
 
 .about .menu-bar {
@@ -73,7 +78,7 @@
   left: 398px;
   position: absolute;
   top: 312px;
-  width: 1131px;
+  width: 100%;
 }
 
 .about .logo {
@@ -141,12 +146,13 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 1000px;
+  left: 960px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
   top: 0;
+  width: 200px;
 }
 
 .about .group {
@@ -155,7 +161,7 @@
   left: 0;
   opacity: 0.8;
   position: absolute;
-  top: 1028px;
+  bottom: 0px;
   width: 1920px;
 }
 
@@ -163,7 +169,7 @@
   height: 72px;
   left: 457px;
   position: absolute;
-  top: 1034px;
+  bottom: 10px;
   width: 72px;
 }
 
@@ -171,14 +177,14 @@
   height: 71px;
   left: 177px;
   position: absolute;
-  top: 1034px;
+  bottom: 10px;
   width: 72px;
 }
 
 .about .icon-gmail {
-  height: 54px;
+  height: 60px;
   left: 317px;
   position: absolute;
-  top: 1043px;
-  width: 72px;
+  bottom: 15px;
+  width: 75px;
 }
