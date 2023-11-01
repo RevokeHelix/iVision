@@ -86,10 +86,10 @@
 
 .about .element {
   height: 29px;
-  left: 0;
+  left: -221px;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: -100px;
   width: 33px;
 }
 
@@ -99,12 +99,12 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 34px;
+  left: -187px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -100px;
 }
 
 .about .text-wrapper-3 {
@@ -118,7 +118,7 @@
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -100px;
 }
 
 .about .text-wrapper-4 {
@@ -132,7 +132,7 @@
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -100px;
 }
 
 .about .text-wrapper-5 {
@@ -172,6 +172,7 @@
   left: 177px;
   position: absolute;
   top: 1034px;
+  bottom: 5px;
   width: 72px;
 }
 
@@ -181,4 +182,6 @@
   position: absolute;
   top: 1043px;
   width: 72px;
+  bottom: 10px;
+  width: 75px;
 }

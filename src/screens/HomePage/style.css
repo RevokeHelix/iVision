@@ -68,10 +68,10 @@
 
 .home-page .element {
   height: 29px;
-  left: 0;
+  left: 27px;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: -36px;
   width: 33px;
 }
 
@@ -81,12 +81,12 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 34px;
+  left: 61px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -36px;
 }
 
 .home-page .text-wrapper-2 {
@@ -95,12 +95,12 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 798px;
+  left: 977px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -36px;
 }
 
 .home-page .text-wrapper-3 {
@@ -109,12 +109,12 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 1020px;
+  left: 1128px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -36px;
 }
 
 .home-page .text-wrapper-4 {
@@ -123,12 +123,12 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 1210px;
+  left: 1242px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -36px;
 }
 
 .home-page .who-are-we {
@@ -178,7 +178,7 @@
   font-size: var(--paragraph-text-font-size);
   font-style: var(--paragraph-text-font-style);
   font-weight: var(--paragraph-text-font-weight);
-  left: 11px;
+  left: 27px;
   letter-spacing: var(--paragraph-text-letter-spacing);
   line-height: var(--paragraph-text-line-height);
   position: absolute;
@@ -236,7 +236,7 @@
   background-color: #d9d9d9;
   border-radius: 30px;
   height: 637px;
-  left: 0;
+  left: 27px;
   position: absolute;
   top: 60;
   width: 655px;
@@ -246,7 +246,7 @@
   background-color: #d9d9d9;
   border-radius: 30px;
   height: 637px;
-  left: 680px;
+  left: 718px;
   position: absolute;
   top: 154px;
   width: 655px;
