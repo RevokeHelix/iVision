@@ -81,10 +81,10 @@
 
 .contact-us .element {
   height: 29px;
-  left: 0;
+  left: -221px;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 18px;
   width: 33px;
 }
 
@@ -94,12 +94,12 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 34px;
+  left: -187px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: 18px;
 }
 
 .contact-us .text-wrapper-3 {
@@ -113,7 +113,8 @@
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: 18px;
+  z-index: 2;
 }
 
 .contact-us .text-wrapper-4 {
@@ -127,7 +128,8 @@
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: 18px;
+  z-index: 2;
 }
 
 .contact-us .text-wrapper-5 {
@@ -136,12 +138,13 @@
   font-size: var(--menu-bar-font-size);
   font-style: var(--menu-bar-font-style);
   font-weight: var(--menu-bar-font-weight);
-  left: 1000px;
+  left: 994px;
   letter-spacing: var(--menu-bar-letter-spacing);
   line-height: var(--menu-bar-line-height);
   position: absolute;
   text-align: center;
-  top: 0;
+  top: 18px;
+  z-index: 2;
 }
 
 .contact-us .ellipse-2 {
@@ -153,6 +156,7 @@
   position: absolute;
   top: 421px;
   width: 539px;
+  z-index: 1;
 }
 
 .contact-us .if-you-were {
